@@ -32,27 +32,27 @@ Here are simple key insights and descriptions that can be obtained via Excel dat
 ### 🔍Calls by Sentiment::
 
 - Insight: Understanding the distribution of customer sentiments can provide insights into overall customer satisfaction levels.
-- Description: Use a pivot chart to visualize the number of calls categorized by different sentiment levels (e.g., Positive, Neutral, Negative, Very Positive, Very Negative).
+- Description: Used a pivot chart to visualize the number of calls categorized by different sentiment levels (e.g., Positive, Neutral, Negative, Very Positive, Very Negative).
 
 ### 🔍Calls by Response:
 
-- Insight: Analyzing response times can help identify areas where service levels are being met or exceeded, as well as areas needing improvement.
-- Description: Create a pivot table to summarize the number of calls based on response time categories (e.g. Within SLA, Above SLA).
+- Insight: Analyzing the response times help to identify areas where service levels are being met or exceeded, as well as areas needing improvement.
+- Description: Created a pivot table to summarize the number of calls based on response time categories (e.g. Within SLA, Above SLA).
 
 ### 🔍Reasons for Calls:
 
-- Insight: Identifying the primary reasons for customer calls can help prioritize resource allocation and address common issues.
-- Description: Generate a pivot chart to visualize the distribution of calls by different reasons (e.g., Billing Question, Service Outage, Payments).
+- Insight: Identifying the primary reasons for customer calls help to prioritize resource allocation and address common issues.
+- Description: Generated a pivot chart to visualize the distribution of calls by different reasons (e.g., Billing Question, Service Outage, Payments).
 
 ### 🔍Calls by State:
 
-- Insight: Analyzing calls by state can reveal geographical patterns and highlight areas with higher or lower call volumes.
-- Description: Utilize a pivot table to summarize the number of calls by state, and create a bar chart to visualize the call distribution across different states.
+- Insight: Analyzing calls by state reveals geographical patterns and highlight areas with higher or lower call volumes.
+- Description: Utilized a pivot table to summarize the number of calls by state, and create a bar chart to visualize the call distribution across different states.
 
 ### 🔍Calls by Call Center:
 
-- Insight: Evaluating call volumes by call center location can assist in optimizing staffing and resource allocation.
-- Description: Use a pivot table to aggregate the number of calls handled by each call center, and create a pie chart or bar chart to compare call volumes across different call center locations.
+- Insight: Evaluating call volumes by call center location  assisted in optimizing staffing and resource allocation.
+- Description: Used a pivot table to aggregate the number of calls handled by each call center, and create a pie chart or bar chart to compare call volumes across different call center locations.
 
 
 These key insights and analyses provide valuable information for understanding customer behavior, improving service quality, and optimizing operational efficiency in customer service management.
